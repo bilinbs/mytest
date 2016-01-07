@@ -1,2 +1,2 @@
 # mytest
-My Learing Demos
+My Learning Demos
